@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.ipynb_checkpoints/
+data/*.csv
+reports/*.csv
+reports/*.png
+reports/*.joblib
+reports/metrics.json
+reports/results.md
+.DS_Store
